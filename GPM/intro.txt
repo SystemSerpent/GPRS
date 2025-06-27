@@ -1,0 +1,3 @@
+# GPM
+General Password Manager, used for saving passwords securely in an isolated site. all are offline
+and have absolute zero connection with internet.
